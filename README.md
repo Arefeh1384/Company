@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #FastAPI App
 It has two endpoints:
 1.**calculate factorial of numbers**:
@@ -19,4 +20,6 @@ It has two endpoints:
 The FastAPI app will be running  on http://localhost:8000. To stop it just press Ctrl + C</
 
 
+=======
+>>>>>>> e9b37df5f19958a8441ba6c8a5f40811b7d4b584
 
